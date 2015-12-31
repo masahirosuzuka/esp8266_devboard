@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name esp-wroom-02)(type KiCad)(uri "$(KIPRJMOD)\\esp-wroom-02.pretty")(options "")(descr ""))
+  (lib (name b3u_1110)(type KiCad)(uri "$(KIPRJMOD)\\b3u_1110.pretty")(options "")(descr ""))
+  (lib (name header)(type KiCad)(uri "$(KIPRJMOD)\\header.pretty")(options "")(descr ""))
+)
