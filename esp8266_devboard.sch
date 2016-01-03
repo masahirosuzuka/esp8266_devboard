@@ -559,13 +559,13 @@ Wire Wire Line
 	6450 4825 6450 4575
 Connection ~ 6450 4575
 Text Label 4200 3750 0    60   ~ 0
-TX
+TX-RX
 Text Label 4200 3850 0    60   ~ 0
-RX
-Text Label 7800 4475 0    60   ~ 0
-TX
-Text Label 7800 4375 0    60   ~ 0
-RX
+RX-TX
+Text Label 7700 4475 0    60   ~ 0
+TX-RX
+Text Label 7700 4375 0    60   ~ 0
+RX-TX
 Wire Wire Line
 	6425 3575 6425 3775
 Connection ~ 6425 3775
