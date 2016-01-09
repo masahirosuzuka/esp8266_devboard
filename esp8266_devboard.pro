@@ -1,4 +1,4 @@
-update=2015/12/29 21:59:22
+update=2016/01/03 13:57:33
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=esp-wroom-02
 LibName31=ft230x
 LibName32=xc6206
+LibName33=ft232r
